@@ -1,7 +1,7 @@
 {
   "name": "@surglogs/with-connected-handler",
   "version": "1.0.0",
-  "description": "withConnectedHandler HOC for easy memoization of derived data in React components",
+  "description": "HOC for easy event handler creation",
   "main": "lib/index.js",
   "types": "index.d.ts",
   "scripts": {
